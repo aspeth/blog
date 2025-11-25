@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bundle install:*)",
+      "Bash(rails generate:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
